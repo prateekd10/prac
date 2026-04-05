@@ -1,2 +1,2 @@
 # prac
-second repo
+second repository for Singapore EC2
